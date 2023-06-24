@@ -1,0 +1,12 @@
+{
+    "name": "yamraaj/yamraaj",
+    "description": "all test",
+    "autoload": {
+        "psr-4": {
+            "Yamraaj\\Yamraaj\\": "src/"
+        }
+    },
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
